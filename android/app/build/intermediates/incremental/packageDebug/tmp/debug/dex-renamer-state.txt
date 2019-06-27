@@ -1,4 +1,7 @@
-#Thu Jun 27 01:24:14 BRT 2019
+#Thu Jun 27 17:12:47 BRT 2019
+base.1=/home/anderson/Documents/Faculdade/Estudos/Git/Tela-de-Login-com-React-native-Firebase/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
 base.0=/home/anderson/Documents/Faculdade/Estudos/Git/Tela-de-Login-com-React-native-Firebase/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

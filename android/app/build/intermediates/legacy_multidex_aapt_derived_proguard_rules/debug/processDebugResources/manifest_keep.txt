@@ -1,0 +1,4 @@
+# Referenced at /home/anderson/Documents/Faculdade/Estudos/Git/Tela-de-Login-com-React-native-Firebase/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:23
+-keep class android.support.v4.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/anderson/Documents/Faculdade/Estudos/Git/Tela-de-Login-com-React-native-Firebase/android/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:23
+-keep class com.login.MainApplication { <init>(); }
