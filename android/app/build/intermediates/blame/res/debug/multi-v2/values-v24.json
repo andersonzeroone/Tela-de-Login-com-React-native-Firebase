@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/anderson/Documents/Faculdade/Estudos/Git/Login/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "/home/anderson/Documents/Faculdade/Estudos/Git/Tela-de-Login-com-React-native-Firebase/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/home/anderson/.gradle/caches/transforms-2/files-2.1/4dd0109c1e510f38ac079fc01cbe91c0/res/values-v24/values-v24.xml",
